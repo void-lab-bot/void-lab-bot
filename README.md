@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=void-lab-bot)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=voidlab-org)](https://github.com/voidlab-org/github-profile-trophy)
